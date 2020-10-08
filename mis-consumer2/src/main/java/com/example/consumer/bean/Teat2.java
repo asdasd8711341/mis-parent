@@ -1,4 +1,4 @@
 package com.example.consumer.bean;
 
-public class Test {
+public class Teat2 {
 }
